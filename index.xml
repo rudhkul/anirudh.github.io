@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rudh</title>
+    <link>https://rudh.github.io/</link>
+    <description>Recent content on Rudh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rudh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Return Gift</title>
+      <link>https://rudh.github.io/posts/a-return/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rudh.github.io/posts/a-return/</guid>
+      <description>&amp;ldquo;I will buy you the toy car on your birthday, Varun,&amp;rdquo; yelled Mumma.
+&amp;ldquo;But,&amp;rdquo; Varun tried to reason with her.
+&amp;ldquo;What has Mumma told you to do when she is working?&amp;rdquo; Mumma bristled with rage while continuously typing a mail to her colleague.
+&amp;ldquo;Do - not - disturb,&amp;rdquo; Varun replied to the floor and walked away while folding his hands as if he&amp;rsquo;s trying to contain his anger.
+During the dinner, there was an awkward silence.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial on Installation of OpenFOAM, preCICE, OpenFOAM-Adapter, and MBDyn</title>
+      <link>https://rudh.github.io/tutorials/fsi/</link>
+      <pubDate>Fri, 17 May 2019 02:37:36 +0530</pubDate>
+      
+      <guid>https://rudh.github.io/tutorials/fsi/</guid>
+      <description>IMP: UPDATED CASE AND ADAPTER SETTINGS AVAILABLE AT &amp;ndash; https://github.com/rudhkul/fsicavity.
+Firstly, install OpenFOAM 5 and Paraview (as the PRECICE adapter currenlty supports this latest version) by using the following commands:
+sudo sh -c &amp;#34;wget -O - http://dl.openfoam.org/gpg.key | apt-key add -&amp;#34; sudo add-apt-repository http://dl.openfoam.org/ubuntu sudo apt-get update sudo apt-get -y install openfoam5  After the installation is over, add . /opt/openfoam5/etc/bashrc to your ~/.bashrc file.
+ Once, the OpenFOAM software has been installed and the library has been included, the OpenFOAM-Adapter with FSI capabilities should be built.</description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
+      <link>https://rudh.github.io/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://rudh.github.io/about/</guid>
+      <description>Anirudh was born in Bengaluru (Karnataka), grew up in Solapur (Maharashtra) and is staying in Indore (Madhya Pradesh). He spent the first half of his life in Solapur, where he did Bachelors in Mechanical Engineering from Walchand Insitute of Technology. Currently, he has submitted his PhD thesis at the Indian Institute of Technology Indore and is awaiting for the review. He has also worked as a CAD-CAE-CFD Consultant in a notable firm at Solapur.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rudh.github.io/contact/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://rudh.github.io/contact/</guid>
+      <description>  Email: rudhkul@gmail.com
+  Google Scholar
+  ResearchGate
+  LinkedIn
+  GitHub
+  Twitter
+  Reddit
+  Curriculum vitae
+  </description>
+    </item>
+    
+    <item>
+      <title>Publications (Scopus h-index: 6)</title>
+      <link>https://rudh.github.io/publications/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://rudh.github.io/publications/</guid>
+      <description>Scopus Author Identifier - 57190669612.
+  Anirudh, K., and S. Dhinakaran. &amp;ldquo;Numerical study on performance improvement of a flat-plate solar collector filled with porous foam.&amp;rdquo; Renewable Energy 147 (2020): 1704-1717.
+  Anirudh, K., and S. Dhinakaran. &amp;ldquo;Performance improvement of a flat-plate solar collector by inserting intermittent porous blocks.&amp;rdquo; Renewable Energy 145 (2020): 428-441.
+  Anirudh, K., and S. Dhinakaran. &amp;ldquo;Effects of Prandtl number on the forced convection heat transfer from a porous square cylinder.</description>
+    </item>
+    
+  </channel>
+</rss>
